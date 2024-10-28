@@ -1,6 +1,5 @@
-- I am a beginner, in the sense of the word.
-- I definitely plan to expand my skills
-- I might update this bio
+nothing to see here
+there might be something to see here
 
 
 <!---
